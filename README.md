@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Evans rintari</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
 <img
-  align="right"
   width="400px"
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2A8yNWFH4dwjN7qVYTYoFk&ust=1671824326361000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD9p4v9jfwCFQAAAAAdAAAAABAa"
+  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw2A8yNWFH4dwjN7qVYTYoFk&ust=1671824326361000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD9p4v9jfwCFQAAAAAdAAAAABAn"
   alt=""
 />
+
+
 
 <p align="left">
   <img
