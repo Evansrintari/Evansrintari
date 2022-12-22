@@ -16,13 +16,13 @@
   /></a>
 </p>
 
-<p align="left">
+<!--<p align="left">
   <a href="https://twitter.com/@rintari_evance" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/@rintari_evance?logo=twitter&style=for-the-badge"
       alt="@rintari_evance"
   /></a>
-</p>
+</p>-->
 
 - 🌱 I’m currently learning **node js** - 💬 Ask me about **java, android,
 javascript** - 📫 How to reach me **rintari110@gmail.com** - ⚡ Fun fact **I am
