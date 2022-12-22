@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evans rintari</h1>
 <h3 align="center">A passionate developer from Kenya</h3>
-<img
-  src="https://www.pinterest.com/pin/784822672535142521/"
-  alt=""
-  width="250px"
-  height="250px"
-/>
 
 <p align="left">
   <img
@@ -23,10 +17,10 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/rintari_rint" target="blank"
+  <a href="https://twitter.com/@rintari_evance" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/rintari_rint?logo=twitter&style=for-the-badge"
-      alt="rintari_rint"
+      src="https://img.shields.io/twitter/follow/@rintari_evance?logo=twitter&style=for-the-badge"
+      alt="@rintari_evance"
   /></a>
 </p>
 
@@ -44,11 +38,11 @@ when i want to be.**
       height="30"
       width="40"
   /></a>
-  <a href="https://twitter.com/rintari_rint" target="blank"
+  <a href="https://twitter.com/@rintari_evance" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="rintari_rint"
+      alt="@rintari_evance"
       height="30"
       width="40"
   /></a>
