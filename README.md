@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Evans rintari</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
+<h3 align="center">A passionate software engineer from Kenya</h3>
+<img
+  align="right"
+  width="400px"
+  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2A8yNWFH4dwjN7qVYTYoFk&ust=1671824326361000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD9p4v9jfwCFQAAAAAdAAAAABAa"
+  alt=""
+/>
 
 <p align="left">
   <img
@@ -16,13 +22,13 @@
   /></a>
 </p>
 
-<!--<p align="left">
+<!-- <p align="left">
   <a href="https://twitter.com/@rintari_evance" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/@rintari_evance?logo=twitter&style=for-the-badge"
       alt="@rintari_evance"
-  /></a>
-</p>-->
+  /></a> 
+</p> -->
 
 - 🌱 I’m currently learning **node js** - 💬 Ask me about **java, android,
 javascript** - 📫 How to reach me **rintari110@gmail.com** - ⚡ Fun fact **I am
